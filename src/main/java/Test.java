@@ -9,9 +9,6 @@ public class Test {
         System.out.println("第二次提交");
         System.out.println("第三次提交");
         System.out.println("test");
-
-        System.out.println("test-2");
-
-        System.out.println("test-2");
+        System.out.println("test2");
     }
 }
